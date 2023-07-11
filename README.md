@@ -121,6 +121,8 @@ Visualización de probabilidades: Se han creado gráficos para visualizar las pr
 
 En resumen, en esta clase se ha aprendido a importar, manipular, limpiar, analizar y visualizar datos utilizando Python y sus librerías, con un enfoque en el uso de Pandas para el manejo de datos estructurados y Seaborn y Matplotlib para la visualización. Estas habilidades son fundamentales para el análisis de datos y sientan las bases para futuros cursos en el campo de la ciencia de datos y el aprendizaje automático.
 dia
+
+
 DIA 7
 
 Para definir una clase en Python, se utiliza la palabra clave "class" seguida del nombre de la clase. La clase actúa como un molde para crear objetos del mismo tipo.
