@@ -80,3 +80,25 @@ Finalmente, decidí probar el algoritmo de los k vecinos más cercanos (KNN). Cr
 Para determinar el método que mejor funcionó en este escenario, creé un dataframe con los resultados obtenidos de cada algoritmo y los comparé. Utilicé un gráfico de barras para visualizar las diferencias en el rendimiento de los algoritmos.
 
 En resumen, a través de este día de trabajo como científico de datos, realicé un análisis exploratorio de los datos, encontré las mejores etiquetas de formación, estandaricé los datos, dividí los datos en conjuntos de entrenamiento y prueba, encontré los mejores hiperparámetros para los algoritmos de SVM, árboles de clasificación y regresión logística, evalué el rendimiento de cada algoritmo en los datos de prueba y comparé sus resultados para determinar el método que mejor se comportó en este contexto de predicción de aterrizaje de la primera etapa de los cohetes Falcon 9 de SpaceX.
+
+DIA 5
+ Se han cubierto varios temas relacionados con el manejo, análisis y visualización de datos. A continuación, se presenta un resumen de los principales contenidos vistos:
+
+Importación de datos: Se ha mostrado cómo importar datos desde diferentes fuentes, como archivos CSV, Excel y bases de datos, utilizando la biblioteca Pandas.
+
+Manipulación y limpieza de datos: Se han abordado técnicas para manipular y limpiar datos, incluyendo la selección, filtrado, agregación, eliminación de valores nulos y manejo de duplicados utilizando Pandas.
+
+Visualización de datos: Se han utilizado las bibliotecas Seaborn y Matplotlib para realizar visualizaciones de datos, incluyendo gráficos de dispersión, gráficos de barras, gráficos de líneas y gráficos de series temporales.
+
+Análisis exploratorio de datos: Se han aplicado técnicas de análisis exploratorio de datos utilizando Pandas y las funciones de agregación, filtrado y visualización para obtener información y patrones clave en los datos.
+
+Agrupación y resumen de datos: Se ha utilizado la función groupby de Pandas para agrupar datos por categorías y calcular estadísticas resumidas, como la media, la suma y el recuento, en cada grupo.
+
+Procesamiento de fechas y series temporales: Se han explorado técnicas para trabajar con datos de fecha y hora, incluyendo el manejo de formatos de fecha, la extracción de componentes de fecha y la visualización de tendencias en series temporales.
+
+Cálculos estadísticos básicos: Se han aplicado cálculos estadísticos básicos, como la media, la mediana, la desviación estándar y los intervalos de confianza, utilizando Pandas y NumPy.
+
+Visualización de probabilidades: Se han creado gráficos para visualizar las probabilidades de éxito según diferentes variables, como la plataforma de lanzamiento, la órbita y el tiempo.
+
+En resumen, en esta clase se ha aprendido a importar, manipular, limpiar, analizar y visualizar datos utilizando Python y sus librerías, con un enfoque en el uso de Pandas para el manejo de datos estructurados y Seaborn y Matplotlib para la visualización. Estas habilidades son fundamentales para el análisis de datos y sientan las bases para futuros cursos en el campo de la ciencia de datos y el aprendizaje automático.
+dia
