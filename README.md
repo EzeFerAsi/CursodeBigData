@@ -1,4 +1,23 @@
 # CursodeBigData
+
+DIA 1
+En esta clase se han visto los siguientes contenidos utilizando Python y sus librerías:
+
+Condicionales:
+
+Se ha introducido la sentencia condicional "if" y sus variantes.
+Se han explicado los operadores de comparación, como la igualdad, desigualdad, menor que, menor o igual que, mayor que y mayor o igual que.
+Se ha mostrado cómo escribir condiciones más complejas utilizando los operadores lógicos "and", "or" y "not".
+Se ha mencionado qué elementos se consideran verdaderos o falsos en Python, como los valores booleanos, el valor nulo, cero entero, cero flotante, cadena vacía, tupla vacía, diccionario vacío y conjunto vacío.
+Ejercicios:
+
+Se han propuesto varios ejercicios para practicar el uso de condicionales en Python.
+Verificar si un año dado es bisiesto.
+Simular un diagrama de flujo de personajes de Marvel utilizando condicionales.
+Determinar si una cadena de texto dada es un palíndromo.
+Cada ejercicio ha proporcionado un enunciado y se ha presentado una solución sugerida para cada uno.
+
+En resumen, en esta clase se han explorado las sentencias condicionales en Python, los operadores de comparación y los ejercicios prácticos para aplicar estos conceptos. El uso de condicionales es fundamental en la programación para tomar decisiones basadas en ciertas condiciones y realizar diferentes acciones según los resultados
 DIA 2
 usando Pandas se ha cubierto una variedad de temas relacionados con el manejo y análisis de datos utilizando la biblioteca Pandas en Python. A continuación, se presenta un resumen de los principales conceptos y técnicas que se han abordado:
 
