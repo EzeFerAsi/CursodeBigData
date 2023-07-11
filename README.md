@@ -1,4 +1,25 @@
 # CursodeBigData
+DIA 2
+usando Pandas se ha cubierto una variedad de temas relacionados con el manejo y análisis de datos utilizando la biblioteca Pandas en Python. A continuación, se presenta un resumen de los principales conceptos y técnicas que se han abordado:
+
+Introducción a Pandas: Se proporcionó una introducción a la biblioteca Pandas, resaltando su importancia en el análisis de datos y su capacidad para trabajar con conjuntos de datos estructurados.
+
+Estructuras de datos en Pandas: Se exploraron las dos estructuras de datos principales en Pandas: Series y DataFrames. Se discutió cómo crear, acceder y manipular estos objetos, así como realizar operaciones básicas en ellos.
+
+Lectura y escritura de datos: Se mostraron diversas formas de leer datos desde diferentes fuentes, como archivos CSV, Excel y bases de datos. Además, se cubrió la escritura de datos en estos formatos.
+
+Manipulación y limpieza de datos: Se presentaron técnicas para manipular y limpiar datos en Pandas, incluyendo la eliminación de valores nulos, el manejo de duplicados, el filtrado y la transformación de datos.
+
+Indexación y selección de datos: Se explicó cómo indexar y seleccionar datos en un DataFrame utilizando diferentes métodos, como loc, iloc y condiciones booleanas.
+
+Operaciones en columnas: Se mostró cómo realizar operaciones en columnas de un DataFrame, incluyendo cálculos matemáticos, funciones personalizadas y agrupación de datos.
+
+Combinación de datos: Se cubrieron técnicas para combinar múltiples DataFrames utilizando operaciones de concatenación, unión y fusión.
+
+Análisis exploratorio de datos: Se presentaron herramientas y técnicas para realizar un análisis exploratorio de datos utilizando Pandas, incluyendo la visualización de datos con gráficos y la generación de resúmenes estadísticos.
+
+Manejo de fechas y series de tiempo: Se discutió cómo trabajar con datos de fecha y hora en Pandas, incluyendo la conversión de tipos de datos, la extracción de componentes de fechas y el filtrado de series de tiempo.
+
 
 DIA 3
 Generando mapas con Python
