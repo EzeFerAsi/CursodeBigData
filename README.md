@@ -121,3 +121,28 @@ Visualización de probabilidades: Se han creado gráficos para visualizar las pr
 
 En resumen, en esta clase se ha aprendido a importar, manipular, limpiar, analizar y visualizar datos utilizando Python y sus librerías, con un enfoque en el uso de Pandas para el manejo de datos estructurados y Seaborn y Matplotlib para la visualización. Estas habilidades son fundamentales para el análisis de datos y sientan las bases para futuros cursos en el campo de la ciencia de datos y el aprendizaje automático.
 dia
+DIA 7
+
+Para definir una clase en Python, se utiliza la palabra clave "class" seguida del nombre de la clase. La clase actúa como un molde para crear objetos del mismo tipo.
+Los nombres que comienzan y terminan con dos guiones bajos "__" están reservados para uso interno de Python y no deben utilizarse en código propio.
+Se puede acceder a la documentación de una función utilizando el atributo "doc" y al nombre de la función utilizando el atributo "name".
+Se puede definir un constructor "init" en una clase para inicializar los atributos de un objeto cuando se crea una instancia de la clase.
+Los métodos son funciones definidas dentro de una clase y se accede a ellos a través de los objetos de la clase.
+Se pueden acceder a los atributos de un objeto utilizando la notación de punto, y se pueden modificar asignando nuevos valores a los atributos.
+Se puede utilizar la función "dir" para obtener una lista de las funciones disponibles en un objeto.
+Se puede utilizar la función "plt.Circle" de la librería matplotlib para dibujar un círculo.
+Ejercicio Clase Circulo:
+
+Se ha proporcionado una clase llamada "Circulo" que representa un círculo. Tiene atributos como "radius" (radio) y "color" (color) y métodos como "anyadir_radio" (para agregar radio) y "dibujarCirculo" (para dibujar el círculo).
+Se puede crear una instancia de la clase Circulo utilizando el constructor y acceder a los atributos y métodos de la instancia.
+Los atributos pueden modificarse asignando nuevos valores.
+Se puede llamar al método "dibujarCirculo" para dibujar el círculo utilizando la librería matplotlib.
+Ejercicio Análisis de Texto:
+
+Se ha proporcionado una clase llamada "analysedText" que realiza análisis en un fragmento de texto.
+El constructor "init" toma un argumento "text", lo formatea convirtiéndolo a minúsculas y eliminando los signos de puntuación, y lo asigna al atributo "fmtText".
+El método "freqAll" crea y devuelve un diccionario que contiene todas las palabras únicas del texto y la cantidad de veces que aparecen.
+El método "freqOf" toma una palabra como argumento y devuelve el número de apariciones de esa palabra en el texto.
+Se pueden utilizar funciones como "replace", "lower", "split" y "count" para manipular el texto y realizar el análisis.
+Resumen de la clase:
+En esta clase hemos visto cómo definir clases en Python y cómo crear objetos utilizando esas clases. Hemos aprendido sobre el constructor, los atributos y los métodos de una clase. También hemos trabajado con la librería matplotlib para realizar visualizaciones gráficas, como dibujar círculos. Además, hemos resuelto ejercicios prácticos relacionados con el análisis de texto utilizando funciones de manipulación de cadenas.
