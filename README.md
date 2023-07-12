@@ -42,7 +42,9 @@ M6 - 02 - Clases
 ## Día 7 - Martes
 
 M6 - 04 - Programación Funcional
-DIA 1
+
+
+## Día 1 - Lunes
 En esta clase se han visto los siguientes contenidos utilizando Python y sus librerías:
 
 Condicionales:
@@ -60,7 +62,9 @@ Determinar si una cadena de texto dada es un palíndromo.
 Cada ejercicio ha proporcionado un enunciado y se ha presentado una solución sugerida para cada uno.
 
 En resumen, en esta clase se han explorado las sentencias condicionales en Python, los operadores de comparación y los ejercicios prácticos para aplicar estos conceptos. El uso de condicionales es fundamental en la programación para tomar decisiones basadas en ciertas condiciones y realizar diferentes acciones según los resultados
-DIA 2
+
+
+## Día 2 - Martes
 usando Pandas se ha cubierto una variedad de temas relacionados con el manejo y análisis de datos utilizando la biblioteca Pandas en Python. A continuación, se presenta un resumen de los principales conceptos y técnicas que se han abordado:
 
 Introducción a Pandas: Se proporcionó una introducción a la biblioteca Pandas, resaltando su importancia en el análisis de datos y su capacidad para trabajar con conjuntos de datos estructurados.
@@ -82,7 +86,7 @@ Análisis exploratorio de datos: Se presentaron herramientas y técnicas para re
 Manejo de fechas y series de tiempo: Se discutió cómo trabajar con datos de fecha y hora en Pandas, incluyendo la conversión de tipos de datos, la extracción de componentes de fechas y el filtrado de series de tiempo.
 
 
-DIA 3
+## Día 3 - Miércoles
 Generando mapas con Python
 Introducción
 En este laboratorio aprenderemos a crear distintos mapas interactivos. Para ello utilizaremos una nueva librería llamada Folium, 
@@ -120,7 +124,7 @@ Coropletas de los EE. UU. que muestra la población por milla cuadrada por estad
 
 
 
-Día 4: Predicción mediante aprendizaje automático
+##Día 4: Predicción mediante aprendizaje automático
 
 En este día, me enfrenté al desafío de crear un modelo de aprendizaje automático para predecir si la primera etapa de los lanzamientos de cohetes de SpaceX aterrizará o no. SpaceX ha logrado ahorrar una gran cantidad de dinero al reutilizar la primera etapa de sus cohetes Falcon 9, lo que les permite ofrecer lanzamientos a un costo mucho menor que otros proveedores.
 
@@ -142,7 +146,7 @@ Para determinar el método que mejor funcionó en este escenario, creé un dataf
 
 En resumen, a través de este día de trabajo como científico de datos, realicé un análisis exploratorio de los datos, encontré las mejores etiquetas de formación, estandaricé los datos, dividí los datos en conjuntos de entrenamiento y prueba, encontré los mejores hiperparámetros para los algoritmos de SVM, árboles de clasificación y regresión logística, evalué el rendimiento de cada algoritmo en los datos de prueba y comparé sus resultados para determinar el método que mejor se comportó en este contexto de predicción de aterrizaje de la primera etapa de los cohetes Falcon 9 de SpaceX.
 
-DIA 5
+##DIA 5
  Se han cubierto varios temas relacionados con el manejo, análisis y visualización de datos. A continuación, se presenta un resumen de los principales contenidos vistos:
 
 Importación de datos: Se ha mostrado cómo importar datos desde diferentes fuentes, como archivos CSV, Excel y bases de datos, utilizando la biblioteca Pandas.
@@ -165,7 +169,7 @@ En resumen, en esta clase se ha aprendido a importar, manipular, limpiar, analiz
 dia
 
 
-DIA 7
+##DIA 6
 
 Para definir una clase en Python, se utiliza la palabra clave "class" seguida del nombre de la clase. La clase actúa como un molde para crear objetos del mismo tipo.
 Los nombres que comienzan y terminan con dos guiones bajos "__" están reservados para uso interno de Python y no deben utilizarse en código propio.
@@ -190,3 +194,5 @@ El método "freqOf" toma una palabra como argumento y devuelve el número de apa
 Se pueden utilizar funciones como "replace", "lower", "split" y "count" para manipular el texto y realizar el análisis.
 Resumen de la clase:
 En esta clase hemos visto cómo definir clases en Python y cómo crear objetos utilizando esas clases. Hemos aprendido sobre el constructor, los atributos y los métodos de una clase. También hemos trabajado con la librería matplotlib para realizar visualizaciones gráficas, como dibujar círculos. Además, hemos resuelto ejercicios prácticos relacionados con el análisis de texto utilizando funciones de manipulación de cadenas.
+
+##Día 7 - Martes
