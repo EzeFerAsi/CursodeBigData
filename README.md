@@ -1,5 +1,5 @@
 # CursodeBigData
-# Curso Machine Learning Gijón - [Contacto](mailto:cursomachinelearninggijon@lubay.es)
+# Curso Machine Learning Gijón - [Contacto](mailto:erf323@hotmail.com)
 
 Las soluciones de todos los días.
 ```bash
