@@ -43,6 +43,15 @@ M6 - 02 - Clases
 
 M6 - 04 - Programación Funcional
 
+## Día 8 - Martes
+
+M6 - 05 - SparkSession Teoría
+
+M6 - 06 - Primer RDD Teoría
+
+M6 - 07 - Transformaciones y Acciones sobre RDDs
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Día 1 - Lunes
 En esta clase se han visto los siguientes contenidos utilizando Python y sus librerías:
