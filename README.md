@@ -133,7 +133,7 @@ Coropletas de los EE. UU. que muestra la población por milla cuadrada por estad
 
 
 
-##Día 4: Predicción mediante aprendizaje automático
+## Día  - Jueves : Predicción mediante aprendizaje automático
 
 En este día, me enfrenté al desafío de crear un modelo de aprendizaje automático para predecir si la primera etapa de los lanzamientos de cohetes de SpaceX aterrizará o no. SpaceX ha logrado ahorrar una gran cantidad de dinero al reutilizar la primera etapa de sus cohetes Falcon 9, lo que les permite ofrecer lanzamientos a un costo mucho menor que otros proveedores.
 
@@ -155,7 +155,9 @@ Para determinar el método que mejor funcionó en este escenario, creé un dataf
 
 En resumen, a través de este día de trabajo como científico de datos, realicé un análisis exploratorio de los datos, encontré las mejores etiquetas de formación, estandaricé los datos, dividí los datos en conjuntos de entrenamiento y prueba, encontré los mejores hiperparámetros para los algoritmos de SVM, árboles de clasificación y regresión logística, evalué el rendimiento de cada algoritmo en los datos de prueba y comparé sus resultados para determinar el método que mejor se comportó en este contexto de predicción de aterrizaje de la primera etapa de los cohetes Falcon 9 de SpaceX.
 
-##DIA 5
+## Día 5 - Viernes
+
+
  Se han cubierto varios temas relacionados con el manejo, análisis y visualización de datos. A continuación, se presenta un resumen de los principales contenidos vistos:
 
 Importación de datos: Se ha mostrado cómo importar datos desde diferentes fuentes, como archivos CSV, Excel y bases de datos, utilizando la biblioteca Pandas.
@@ -178,7 +180,7 @@ En resumen, en esta clase se ha aprendido a importar, manipular, limpiar, analiz
 dia
 
 
-##DIA 6
+## Día 6 - 
 
 Para definir una clase en Python, se utiliza la palabra clave "class" seguida del nombre de la clase. La clase actúa como un molde para crear objetos del mismo tipo.
 Los nombres que comienzan y terminan con dos guiones bajos "__" están reservados para uso interno de Python y no deben utilizarse en código propio.
@@ -204,4 +206,4 @@ Se pueden utilizar funciones como "replace", "lower", "split" y "count" para man
 Resumen de la clase:
 En esta clase hemos visto cómo definir clases en Python y cómo crear objetos utilizando esas clases. Hemos aprendido sobre el constructor, los atributos y los métodos de una clase. También hemos trabajado con la librería matplotlib para realizar visualizaciones gráficas, como dibujar círculos. Además, hemos resuelto ejercicios prácticos relacionados con el análisis de texto utilizando funciones de manipulación de cadenas.
 
-##Día 7 - Martes
+## Día 7 - 
